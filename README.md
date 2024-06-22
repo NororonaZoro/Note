@@ -1,2 +1,4 @@
 # Note
-Describe my study note.
+Study notes collection.
+
+I hope I can persist.
