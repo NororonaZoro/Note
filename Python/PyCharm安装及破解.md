@@ -18,7 +18,7 @@
 
 5. 选择安装路径
 
-![decb04126f7fb718e30855ec822da96](decb04126f7fb718e30855ec822da96.png)
+   ![decb04126f7fb718e30855ec822da96](https://gitee.com/lu-hua7/picture/raw/master/decb04126f7fb718e30855ec822da96.png)
 
 6. 根据喜好选择适合的配置（笔者由于使用了其他工具所以没有选择创建快捷方式和工程项目文件夹，无特殊要求全选即可）
 
