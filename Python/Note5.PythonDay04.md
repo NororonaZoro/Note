@@ -2,7 +2,7 @@
 
 > 笔者学习笔记依据B站UP主***鱼C-小甲鱼***，学习视频为：[【Python教程】《零基础入门学习Python》最新版]([序章_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=1&vd_source=3052c1e7ab8ae1ae3bd0668a229fc4b7))
 >
-> 本次学习章节为P27-P
+> 本次学习章节为P27-P33
 
 ## 一、元组（P27）
 
