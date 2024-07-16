@@ -34,7 +34,7 @@ id()会返回一个代表指定对象的唯一标识的整数值
 
 判断是否指向同一个对象
 
-![dff98de1c4517535946476c71135f6a](../../WeChat/WeChat Files/WeChat Files/wxid_jnldfz5q87uq22/FileStorage/Temp/dff98de1c4517535946476c71135f6a.png)
+![](https://gitee.com/lu-hua7/picture/raw/master/dff98de1c4517535946476c71135f6a.png)
 
 #### （3）in 和 not in
 
